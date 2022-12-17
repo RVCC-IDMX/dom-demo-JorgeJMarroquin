@@ -20,7 +20,7 @@ ul li {
 }
 
 header {
-  background: #f4f4f4;
+  background: #87d9ff;
   padding: 1rem;
   text-align: center;
 }
@@ -34,7 +34,7 @@ header {
 
 #my-form {
   padding: 2rem;
-  background: #f4f4f4;
+  background: #ecf0efee;
 }
 
 #my-form label {
